@@ -16,7 +16,7 @@ function HomeScreen({ navigation }) {
       
       {/* Datos del estudiante */}
       <Text style={styles.infoText}>Estudiante: Juan Félix</Text>
-      <Text style={styles.infoText}>Matrícula: 20213-0680</Text>
+      <Text style={styles.infoText}>Matrícula: 2013-0680</Text>
 
       {/* Formulario básico */}
       <View style={styles.card}>
